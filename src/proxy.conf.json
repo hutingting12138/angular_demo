@@ -1,0 +1,7 @@
+{
+    "/api": {
+        "target": "http://dev.omeracloud.ca",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
